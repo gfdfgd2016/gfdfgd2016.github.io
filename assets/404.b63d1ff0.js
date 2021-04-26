@@ -1,1 +1,0 @@
-import{p as a,e as d,o as e,c as o,w as s,f as n}from"./vendor.26c7e9bc.js";const t={},c=s();a("data-v-ede86a74");const r={id:"not_find"},f=n("h1",null,"404 not find",-1);d();const i=c(((a,d,s,n,t,c)=>(e(),o("div",r,[f]))));t.render=i,t.__scopeId="data-v-ede86a74";export default t;
